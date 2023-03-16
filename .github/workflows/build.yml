@@ -38,6 +38,7 @@ jobs:
         lilv
         mp3lame
         ms-gsl
+        openssl
         opus
         opusfile
         portaudio[asio]
