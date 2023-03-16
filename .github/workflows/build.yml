@@ -55,7 +55,6 @@ jobs:
         pthreads
         qtbase
         qtdeclarative
-        qtscript
         qtsvg
         qttranslations
         qtkeychain[qt6]
