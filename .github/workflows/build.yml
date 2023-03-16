@@ -57,7 +57,7 @@ jobs:
         qtdeclarative
         qtsvg
         qttranslations
-        qtkeychain[qt6]
+        qtkeychain-qt6
         rubberband
         soundtouch
         taglib
