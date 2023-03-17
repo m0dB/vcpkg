@@ -57,6 +57,7 @@ jobs:
         qtdeclarative
         qtsvg
         qttranslations
+        qt5compat
         qtkeychain-qt6
         rubberband
         soundtouch
